@@ -15,8 +15,8 @@ I train low bias, low variance models. Deep Learning at <a href="https://www.eco
 - High proficiency with deploying large scale models in production with TensorFlow, TF-Serving and developing low latency & high throughput client side scripts with Python, gRPC.
 
 ## Licenses & Certifications:
-<a href="https://www.youracclaim.com/badges/d2d63529-168f-4167-820a-d979df1e9c13/linked_in_profile"><img align="left" alt="AWS" width="45px" src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Machine-Learning_Specialty_512x512.6ac490d15fe033a3d67ca544ecd0bcbcb10d391a.png" />
-<a href="https://www.credential.net/8843109a-05ae-497d-884d-6c7809b96154"><img align="left" alt="TF" width="45px" src="https://developers.google.com/certification/directory/images/badges/tensorflow_developer.png" /></a>
+<a href="https://www.youracclaim.com/badges/d2d63529-168f-4167-820a-d979df1e9c13/linked_in_profile"><img align="left" alt="AWS" width="100px" src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Machine-Learning_Specialty_512x512.6ac490d15fe033a3d67ca544ecd0bcbcb10d391a.png" />
+<a href="https://www.credential.net/8843109a-05ae-497d-884d-6c7809b96154"><img align="left" alt="TF" width="100px" src="https://developers.google.com/certification/directory/images/badges/tensorflow_developer.png" /></a>
 <br />
 <br />
 
@@ -24,5 +24,3 @@ I train low bias, low variance models. Deep Learning at <a href="https://www.eco
 
 ## Github Stats:
 <img alt="spate141's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=spate141&show_icons=true&hide_border=true" />
-<br />
-<br />
