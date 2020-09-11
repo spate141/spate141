@@ -24,3 +24,4 @@ I train low bias, low variance models. Deep Learning at <a href="https://www.eco
 
 ## Github Stats:
 <img alt="spate141's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=spate141&show_icons=true&hide_border=true" />
+<br />
