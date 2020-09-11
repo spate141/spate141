@@ -3,7 +3,7 @@ I train low bias, low variance models. Deep Learning at <a href="https://www.eco
 
 <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fspate141&screen_name=__snehal__"><img align="left" alt="Twitter" src="https://img.shields.io/twitter/follow/__snehal__?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/spatel141/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+<br />
 
 ### Who am I❓
 - Senior Machine Learning Engineer, AWS certified ML specialist, TensorFlow certified developer with background in natural language processing, computer vision and speech recognition.
