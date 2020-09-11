@@ -1,4 +1,4 @@
-## Hello World! I'm Snehal 👋🏻
+## Hello World! 👋🏻
 I train low bias, low variance models. Deep Learning at <a href="https://www.econtext.ai/">eContext.ai</a>
 
 <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fspate141&screen_name=__snehal__"><img align="left" alt="Twitter" src="https://img.shields.io/twitter/follow/__snehal__?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
@@ -21,6 +21,7 @@ I train low bias, low variance models. Deep Learning at <a href="https://www.eco
 <a href="https://www.credential.net/8843109a-05ae-497d-884d-6c7809b96154"><img align="left" alt="TF" width="100px" src="https://developers.google.com/certification/directory/images/badges/tensorflow_developer.png" /></a>
 <br />
 ---
+<br />
 <br />
 
 ## Github Stats:
