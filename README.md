@@ -15,6 +15,7 @@ Then i recorded my screen to gif
 <p align="center">
   <img align="center" alt="GIF" src="https://github.com/spate141/spate141/blob/master/code.gif?raw=true" width="450" height="300" />
 </p>
+Readme streak: http://github-readme-streak-stats.herokuapp.com/demo/
 -->
 <ul>
 <li> I train low bias, low variance models. </li>
@@ -46,3 +47,13 @@ Then i recorded my screen to gif
 
 <img alt="spate141's Github Stats" src="https://readme-git-master.spate141.vercel.app/api?username=spate141&show_icons=true&hide_border=true" />
 <br />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=spate141&stroke=290000&ring=375DB3&fire=DD821F&dates=2D6491&sideNums=426F78)](https://git.io/streak-stats)
+
+## StackOverflow Stats:
+
+[![Snehal StackOverflow](https://stackoverflow-badge.vercel.app/?userID=4496896)](https://stackoverflow.com/users/4496896/snehal)
+
+## Twitter:
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=sn3h4l&layout=wide&show_reply=off)](https://github.com/gazf/github-readme-twitter)
