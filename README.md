@@ -1,16 +1,23 @@
-## Hello World, I'm Snehal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I train low bias, low variance models. Deep Learning at <a href="https://www.econtext.ai/">eContext.ai</a>
+![Hi, I'm Snehal!️](https://github.com/spate141/spate141/raw/master/intro.gif)
+<!--
+how to make this gif ?
+
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif
+-->
 
 <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fspate141&screen_name=sn3h4l"><img align="left" alt="Twitter" src="https://img.shields.io/twitter/follow/sn3h4l?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/spatel141/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br />
 ---
 <br />
-
-
-<img align="center" alt="GIF" src="https://github.com/spate141/spate141/blob/master/code.gif?raw=true" width="350" height="250" />
-
+<!--
+<p align="center">
+  <img align="center" alt="GIF" src="https://github.com/spate141/spate141/blob/master/code.gif?raw=true" width="450" height="300" />
+</p>
+-->
 <ul>
+<li> I train low bias, low variance models. </li>
 <li> Senior Machine Learning Engineer, AWS certified ML specialist, TensorFlow certified developer with background in natural language processing, computer vision and speech recognition. </li>
 <li> Currently, working towards research and development of deep learning applications for structured/unstructured data to create a scalable system for eContext's taxonomy of 500,000 categories. </li>
 <li> Good grasp of data analysis, data cleaning, and deep learning algorithms. </li>
