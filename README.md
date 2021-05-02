@@ -56,4 +56,4 @@ Readme streak: http://github-readme-streak-stats.herokuapp.com/demo/
 
 ## Twitter:
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=sn3h4l&layout=wide&show_reply=off)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=sn3h4l&layout=wide&show_reply=off)](https://twitter.com/sn3h4l)
