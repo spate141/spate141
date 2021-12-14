@@ -6,8 +6,9 @@ I made my with https://codesandbox.io/s/github-profile-2ijk7
 Then i recorded my screen to gif
 -->
 
-<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fspate141&screen_name=sn3h4l"><img align="left" alt="Twitter" src="https://img.shields.io/twitter/follow/sn3h4l?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/spatel141/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!-- <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fspate141&screen_name=sn3h4l"><img align="left" alt="Twitter" src="https://img.shields.io/twitter/follow/sn3h4l?color=1DA1F2&logo=twitter&style=for-the-badge" /></a> -->
+<!-- <a href="https://www.linkedin.com/in/spatel141/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+
 <br />
 ---
 <br />
