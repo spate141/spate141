@@ -55,7 +55,7 @@ Readme streak: http://github-readme-streak-stats.herokuapp.com/demo/
 
 [![Snehal StackOverflow](https://stackoverflow-badge.vercel.app/?userID=4496896)](https://stackoverflow.com/users/4496896/snehal)
 
-## Twitter:
+<!-- ## Twitter:
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=sn3h4l&layout=wide&show_reply=off)](https://twitter.com/sn3h4l)
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='280"'>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='280"'> -->
