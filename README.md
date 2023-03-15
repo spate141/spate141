@@ -10,7 +10,7 @@ Then i recorded my screen to gif
 <!-- <a href="https://www.linkedin.com/in/spatel141/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 
 <br />
----
+
 <br />
 <!--
 <p align="center">
@@ -19,14 +19,14 @@ Then i recorded my screen to gif
 Readme streak: http://github-readme-streak-stats.herokuapp.com/demo/
 -->
 <ul>
-<li> I train low bias, low variance models. </li>
-<li> Senior Machine Learning Engineer, AWS certified ML specialist, TensorFlow certified developer with background in natural language processing, computer vision and speech recognition. </li>
-<li> Currently, working towards research and development of deep learning applications for structured/unstructured data to create a scalable system for eContext's taxonomy of 500,000 categories. </li>
-<li> Good grasp of data analysis, data cleaning, and deep learning algorithms. </li>
+<li> Senior Machine Learning Engineer/Data Scientist, AWS certified ML specialist, TensorFlow certified developer with background in natural language processing, computer vision and speech recognition. </li>
+<li> Currently focused on developing valuable scientific solutions for search products for the 84.51º Digital Relevancy Science team. </li>
+<li> Previously, worked towards research and development of deep learning applications for structured/unstructured data to create a scalable system for eContext's taxonomy of 500,000 categories. </li>
+<li> Good grasp of data analysis, data cleaning, deep learning algorithms and training train low bias, low variance models. </li>
 <li> Theoretical knowledge of the underpinnings of algorithms and statistics. </li>
 <li> Strong expertise to grok research papers from different domains of deep learning. </li>
 <li> Adroitness to understand business problems and building data-driven solutions. </li>
-<li> High proficiency with deploying large scale models in production with TensorFlow, TF-Serving and developing low latency & high throughput client side scripts with Python, gRPC. </li>
+<li> High proficiency with deploying large scale models in production with TensorFlow/TF-Serving, PyTorch/TorchServe. </li>
 </ul>
   
 ## Licenses & Certifications:
