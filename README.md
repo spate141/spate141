@@ -3,7 +3,7 @@
 how to make this gif ?
 
 I made my with https://codesandbox.io/s/github-profile-2ijk7
-Then i recorded my screen to gif
+Then I recorded my screen to gif & converted mp4 to gif at https://cloudconvert.com/mov-to-gif (fps: 30)
 -->
 
 <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fspate141&screen_name=sn3h4l"><img align="left" alt="Twitter" src="https://img.shields.io/twitter/follow/sn3h4l?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
@@ -52,7 +52,7 @@ Readme streak: http://github-readme-streak-stats.herokuapp.com/demo/
 
 ## StackOverflow Stats:
 
-[![Snehal StackOverflow](https://stackoverflow-badge.vercel.app/?userID=4496896)](https://stackoverflow.com/users/4496896/snehal)
+<a href="https://stackexchange.com/users/5687996"><img src="https://stackexchange.com/users/flair/5687996.png?theme=clean" width="208" height="58" alt="profile for Snehal on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Snehal on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ## Twitter:
 
