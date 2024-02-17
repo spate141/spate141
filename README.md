@@ -1,4 +1,4 @@
-![Hi, I'm Snehal!️](https://github.com/spate141/spate141/raw/master/intro.gif)
+![Hi, I'm Snehal!️](https://github.com/spate141/spate141/raw/master/hello_intro.gif)
 <!--
 how to make this gif ?
 
@@ -12,12 +12,7 @@ Then I recorded my screen to gif & converted mp4 to gif at https://cloudconvert.
 <br />
 
 <br />
-<!--
-<p align="center">
-  <img align="center" alt="GIF" src="https://github.com/spate141/spate141/blob/master/code.gif?raw=true" width="450" height="300" />
-</p>
-Readme streak: http://github-readme-streak-stats.herokuapp.com/demo/
--->
+
 <ul>
 <li> Senior Machine Learning Engineer/Data Scientist, AWS certified ML specialist, TensorFlow certified developer with background in natural language processing, computer vision and speech recognition. </li>
 <li> Currently focused on developing valuable scientific solutions for search products for the 84.51º Digital Relevancy Science team. </li>
